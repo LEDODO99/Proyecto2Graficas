@@ -1,0 +1,29 @@
+Para poder ejecutar el programa se tiene que instalar las siguientes librerias
+PyOpengl
+Numpy
+Pyrr
+Pillow
+glfw
+Para poder instalar correctamente glfw se debe seguir los pasos para incluir los paquetes de binarios como se describe en :
+	https://www.glfw.org/download.html
+Luego para ejectuar el programa tiene que ejectuar el archivo "Proyecto3LuisDelgado17187.py" estando en la misma carpeta que
+"naxramas.mtl", "naxramas.obj", "DefaultMaterial_Base_Color.png", "ShaderLoader.py", "objloader.py" y la carpeta "shaders" 
+teniendo dentro los archivos "fragment_shader.txt" y "vertex_shader.txt"
+
+Controles:
+rotar sobre eje x:
+	D/RIGHT
+	A/LEFT
+Pan up:
+	W/UP
+Pan down:
+	S/DOWN
+Acercar:
+	E
+Alejar:
+	Q
+Reiniciar posicion de la camara:
+	R
+Cambiar de color:
+	1
+	2
